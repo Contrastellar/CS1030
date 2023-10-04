@@ -1,0 +1,5 @@
+this is a test message, using an external public key.
+
+test test
+
+Gabriella Stimac -- gstimac@msudenver.edu
